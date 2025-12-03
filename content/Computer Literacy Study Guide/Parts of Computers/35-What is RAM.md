@@ -3,7 +3,7 @@ title: Understanding RAM
 linktitle: Understanding RAM
 slug: ram-explained
 description: Learn about Random Access Memory (RAM), its crucial role in computer performance, and how it differs from hard disk storage in this beginner-friendly guide.
-weight: 30
+weight: 35
 ---
 
 RAM, or Random Access Memory, is a vital component in computers and mobile devices. It serves as a high-speed, temporary storage area for data that the device needs to access quickly.
