@@ -34,7 +34,7 @@ Here are some of the most popular search engines.
   </div>
 </div>
 
-A search engine does three main jobs to give you answers.
+A search engine does these jobs to give you answers.
 
 ### 1. It Gathers Information
 
