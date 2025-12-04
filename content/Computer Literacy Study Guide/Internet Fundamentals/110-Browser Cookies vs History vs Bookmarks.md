@@ -2,7 +2,7 @@
 title: Web Cookies vs Browser History vs Bookmarks - A Simple Guide
 linktitle: Cookies vs History vs Bookmarks
 slug: cookies-vs-history-vs-bookmarks
-weight: 100
+weight: 110
 ---
 
 We will use the analogy of visiting a bustling market to understand the difference between browser history, bookmarks and cookies.

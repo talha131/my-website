@@ -2,7 +2,7 @@
 title: HTTP vs HTTPS – Understanding the Difference
 linktitle: HTTP vs HTTPS
 slug: http-vs-https
-weight: 30
+weight: 80
 ---
 
 HTTP and HTTPS are essential protocols that facilitate communication on the internet. While both serve to transfer data between web browsers and servers, they differ significantly in terms of security and data protection.

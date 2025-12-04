@@ -3,7 +3,7 @@ title: Understanding Web Browsers
 linktitle: What is a Web Browser?
 slug: what-is-a-web-browser-guide
 description: A simple guide to understand what a web browser is, its main functions like tabs and bookmarks, and examples of popular browsers like Chrome and Firefox.
-weight: 80
+weight: 30
 ---
 
 ## What is a Web Browser?

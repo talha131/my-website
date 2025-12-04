@@ -2,7 +2,7 @@
 title: Understanding Web Cookies
 linktitle: Web Cookies
 slug: understanding-web-cookies
-weight: 40
+weight: 90
 ---
 
 Web cookies are small pieces of data stored on computers by websites. These cookies significantly enhance the web browsing experience by remembering login details, preferences, and other personalized settings.

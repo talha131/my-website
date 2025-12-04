@@ -3,7 +3,7 @@ title: Common Uses of the Internet in Daily Life
 linktitle: Internet in Daily Life
 slug: uses-of-internet-in-daily-life
 description: A simple guide tocommon uses of the internet in our daily lives, from communication and shopping to learning and entertainment.
-weight: 15
+weight: 20
 ---
 
 The internet is a giant network that connects computers all over the world. It has changed the way we live, work, and communicate with each other.

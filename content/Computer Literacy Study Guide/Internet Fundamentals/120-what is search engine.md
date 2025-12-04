@@ -3,7 +3,7 @@ title: Search Engines Explained – What They Are, Examples, and Their Functions
 linktitle: What Are Search Engines?
 slug: what-are-search-engines
 description: Learn what search engines are, explore popular examples, and understand their essential functions in simplifying internet navigation.
-weight: 110
+weight: 120
 ---
 
 ## What is a Search Engine?

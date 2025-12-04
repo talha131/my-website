@@ -2,7 +2,7 @@
 title: List of Essential Internet Protocols
 linktitle: Essential Internet Protocols
 slug: list-of-essential-internet-protocols
-weight: 20
+weight: 70
 prev: /Computer Literacy Study Guide/Internet Fundamentals
 ---
 
