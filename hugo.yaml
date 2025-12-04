@@ -45,22 +45,27 @@ menu:
       name: Articles
       pageRef: /articles
       weight: 3
-    - name: Search
+    - name: YouTube Channel
       weight: 4
+      url: https://www.youtube.com/@TalhaMansoorOfficial
+      params:
+        type: link
+        icon: youtube
+    - name: Search
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: https://github.com/talha131
+    - name: Theme Toggle
       params:
-        icon: github
+        type: theme-toggle
+        label: false
 
 params:
-  description: onCrash Reboot offers comprehensive computer literacy and ICT study resources for BEd students. Access beginner-friendly guides, tutorials, and educational technology tips designed specifically for future educators.
+  description: TalhaMansoor.com offers comprehensive computer literacy and ICT study resources for BEd students. Access beginner-friendly guides, tutorials, and educational technology tips designed specifically for future educators.
 
   page:
     # full (100%), wide (90rem), normal (1280px)
-    width: wide
+    width: full
 
   theme:
     default: system
@@ -75,13 +80,13 @@ params:
       link: /
       width: 40
       height: 20
-    width: wide
+    width: full
 
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
-    width: wide
+    displayPoweredBy: false
+    width: full
 
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
