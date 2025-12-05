@@ -1,9 +1,9 @@
 ---
-title: Computer Literacy in Education
-linktitle: Computer Literacy
-slug: computer-literacy-in-education
+title: Why Computer Literacy Matters for Educators
+linktitle: Why Computer Literacy Matters
+slug: why-computer-literacy-matters
 description: Explore the significance of computer literacy, the challenges of teaching it, and its role in preparing learners for the digital world.
-weight: 13
+weight: 10
 ---
 
 As technology becomes a driving force in modern education, developing computer literacy is no longer optional—it’s essential. This section explores the **importance of computer literacy** in empowering learners and educators while addressing the challenges of imparting these crucial skills.

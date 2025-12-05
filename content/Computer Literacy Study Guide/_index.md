@@ -23,7 +23,7 @@ Complete each section sequentially for the most effective learning experience, a
 
 ### Core Computing Skills
 
-4. [Software Fundamentals]({{< relref "Software" >}})
+4. [Software Fundamentals]({{< relref "Software Essentials" >}})
 5. [Operating System Essentials]({{< relref "Operating System" >}})
 6. [File Management and Compression]({{< relref "File Management and Compression Essentials" >}})
 7. [Productivity Software]({{< relref "Office and Productivity Tools" >}})
@@ -41,7 +41,7 @@ Complete each section sequentially for the most effective learning experience, a
 
 ### Educational Technology
 
-13. [Computer Literacy in Education]({{< relref "Computer Literacy in Education" >}})
+13. [Computer Literacy in Education]({{< relref "Why Computer Literacy Matters" >}})
 14. [Technology and Multimedia in Education]({{< relref "Technology and Multimedia in Education" >}})
 
 ## Learning Objectives

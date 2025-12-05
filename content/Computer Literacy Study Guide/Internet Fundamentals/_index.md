@@ -1,6 +1,6 @@
 ---
 title: Internet Fundamentals
-weight: 8
+weight: 70
 next: /Computer Literacy Study Guide/Internet Fundamentals/20-List of Essential Internet Protocols
 ---
 
