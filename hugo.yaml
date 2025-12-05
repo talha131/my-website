@@ -37,14 +37,23 @@ menu:
       name: Computer Literacy Study Guide
       pageRef: /computer-literacy-study-guide
       weight: 1
+      params:
+        type: link
+        icon: sparkles
     - identifer: ictstudyguide
       name: ICT Study Guide
       pageRef: /ict-study-guide
       weight: 2
+      params:
+        type: link
+        icon: academic-cap
     - identifer: articles
       name: Articles
       pageRef: /articles
       weight: 3
+      params:
+        type: link
+        icon: cards
     - name: YouTube Channel
       weight: 4
       url: https://www.youtube.com/@TalhaMansoorOfficial
