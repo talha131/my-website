@@ -3,52 +3,63 @@ title: Computer Literacy Study Guide for Education Students
 linktitle: Computer Literacy Guide
 slug: computer-literacy-guide
 description: Comprehensive computer literacy resources designed specifically for Bachelor of Education BEd students, covering essential digital skills for modern educators.
+next: /Computer Literacy Study Guide/Why Computer Literacy Matters
 cascade:
   type: docs
 ---
 
-This comprehensive guide presents fourteen essential topics designed to build strong digital foundations for education students. Each section progresses logically from basic concepts to advanced educational applications.
+This guide teaches key computer skills for education students. It helps build a strong foundation in technology. Topics are arranged in a simple, step-by-step order.
 
-## Guide Structure and Topics
+## What This Guide Teaches
 
-{{< callout type="warning" >}}
-Complete each section sequentially for the most effective learning experience, as topics build upon previous knowledge.
+- Use key computer skills for the classroom.
+- Use technology to improve teaching.
+- Feel comfortable using new software.
+- Use computers safely and responsibly.
+
+{{< callout emoji="💡" >}}
+First, learn why these skills are so important for teaching.
+
+[**Start Here: Why Computer Literacy Matters for Teachers**]({{< relref "Why Computer Literacy Matters" >}})
 {{< /callout >}}
 
-### Foundation Knowledge
+## The Learning Path
 
-1. [The Evolution and Features of Computers]({{< relref "The Evolution and Features of Computers" >}})
-2. [Parts of Computers]({{< relref "Parts of Computers" >}})
-3. [Understanding Computer Classifications]({{< relref "Understanding Computer Classifications" >}})
+The guide is broken down into four simple modules.
 
-### Core Computing Skills
+{{% steps %}}
 
-4. [Software Fundamentals]({{< relref "Software Essentials" >}})
-5. [Operating System Essentials]({{< relref "Operating System" >}})
-6. [File Management and Compression]({{< relref "File Management and Compression Essentials" >}})
-7. [Productivity Software]({{< relref "Office and Productivity Tools" >}})
+### The Fundamentals - Understanding the Machine
 
-### Connectivity and Communication
+{{< badge content="Module 1" color="purple" >}}
 
-8. [Networking Basics]({{< relref "Networking Basics" >}})
-9. [Internet Fundamentals]({{< relref "Internet Fundamentals" >}})
-10. [Device Connectivity]({{< relref "Device Connectivity" >}})
+1. [Parts of Computers]({{< relref "Parts of Computers" >}})
+2. [Operating System Essentials]({{< relref "Operating System" >}})
+3. [Software Fundamentals]({{< relref "Software Essentials" >}})
+4. [File Management and Compression]({{< relref "File Management and Compression Essentials" >}})
 
-### Digital Safety and Modern Computing
+### Connecting to the World - The Internet and Networks
 
-11. [Security and Ethics in Computing]({{< relref "Security and Ethics in Computing" >}})
-12. [Cloud Computing]({{< relref "Cloud Computing" >}})
+{{< badge content="Module 2" color="green" >}}
 
-### Educational Technology
+1. [Networking Basics]({{< relref "Networking Basics" >}})
+2. [Internet Fundamentals]({{< relref "Internet Fundamentals" >}})
+3. [Device Connectivity]({{< relref "Device Connectivity" >}})
 
-13. [Computer Literacy in Education]({{< relref "Why Computer Literacy Matters" >}})
-14. [Technology and Multimedia in Education]({{< relref "Technology and Multimedia in Education" >}})
+### Practical Applications for Educators
 
-## Learning Objectives
+{{< badge content="Module 3" color="amber" >}}
 
-This guide helps education students:
+1. [Productivity Software]({{< relref "Office and Productivity Tools" >}})
+2. [Technology and Multimedia in Education]({{< relref "Technology and Multimedia in Education" >}})
+3. [Cloud Computing]({{< relref "Cloud Computing" >}})
 
-- Master essential digital skills for modern teaching
-- Understand technology integration in education
-- Develop confidence with educational software
-- Learn safe and ethical computing practices
+### Broader Context and Digital Citizenship
+
+{{< badge content="Module 4" color="blue" >}}
+
+1. [Understanding Computer Classifications]({{< relref "Understanding Computer Classifications" >}})
+2. [The Evolution and Features of Computers]({{< relref "The Evolution and Features of Computers" >}})
+3. [Security and Ethics in Computing]({{< relref "Security and Ethics in Computing" >}})
+
+{{% /steps %}}
