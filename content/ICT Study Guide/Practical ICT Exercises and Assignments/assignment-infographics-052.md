@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 052
 slug: assignment-infographics-052
 weight: 52
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic summarizing the plot, characters, and themes of "Kung Fu Panda" (2008), using Chinese-inspired visuals to show Po's step-by-step journey to becoming the Dragon Warrior.
 ---
 
 {{< callout type="info" >}}
@@ -12,37 +12,34 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic that visually represents the plot, important events, and main characters of "Kung Fu Panda" (2008). This will help you summarize the story and present information in a visually appealing way.
+Create an infographic in Canva that covers the plot, important events, and main characters of "Kung Fu Panda" (2008).
 
 ## Instructions
 
-- Watch "Kung Fu Panda" (2008) if you haven't seen it recently.
-- Take notes on the main plot points, key events, and important characters.
+Watch "Kung Fu Panda" (2008) if you haven't seen it recently. Take notes on the main plot points, key events, and important characters.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
 - Outline the main characters: Po, the Furious Five, Master Shifu, and Tai Lung.
 - Identify 5-7 major plot points in Po's journey to become the Dragon Warrior.
 - Note key locations like the Jade Palace and the Valley of Peace.
 
-### Design Your Infographics
+### Design in Canva
 
 - Use Chinese-inspired icons and martial arts symbols.
-- Include images of key characters in action poses.
-- Use red, gold, and jade green to reflect Chinese themes.
-- Choose a font that looks like Chinese calligraphy for headings and a clear font for details.
-- Use a step-by-step design to show Po's growth from noodle shop worker to kung fu master.
+- Use red, gold, and jade green to reflect the film's setting.
+- Choose a font that resembles Chinese calligraphy for headings and a clear font for details.
+- Use a step-by-step layout to show Po's growth from noodle shop worker to kung fu master.
 
-### Add Important Details
+### Content to Include
 
-- Include the movie title "Kung Fu Panda" and release year (2008).
-- Add brief descriptions of main characters and their kung fu styles.
-- Highlight memorable quotes like "There is no secret ingredient."
-- Include the central themes of believing in yourself and inner strength.
+- Movie title "Kung Fu Panda" and release year (2008).
+- Brief descriptions of the main characters and their kung fu styles.
+- A memorable quote such as "There is no secret ingredient."
+- The central themes of self-belief and inner strength.
 
-### Final Review & Improvements
+### Final Review
 
 - Check for spelling and grammar mistakes.
-- Ensure all information accurately represents the movie's plot.
-- Make sure the infographic is easy to read and visually appealing.
-
+- Confirm that all information accurately reflects the movie's plot.
+- Make sure the infographic is easy to read.

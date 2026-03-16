@@ -2,41 +2,40 @@
 title: Assignment - Infographics - 043
 slug: assignment-infographics-043
 weight: 43
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students design a Canva infographic teaching children and pedestrians the safe steps for crossing a road, with road safety facts and visual instructions.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-How to Cross the Road
+How to cross the road.
 
 ## Objective
 
-Educate people, especially children, on the safe steps to cross roads effectively, emphasizing safety measures.
+Teach people, especially children, the safe steps for crossing a road.
 
 ## Instructions
 
-- Research the key steps such as looking both ways, waiting for the green light, and using a zebra crossing.
-- Highlight why road safety is important.
+- Research the key steps: looking both ways, waiting for the green light, and using a zebra crossing.
+- Include a fact about why road safety matters.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
 #### Section 1
 
-"Why Road Safety Matters" (add a quick fact).
+"Why Road Safety Matters" - include a quick fact.
 
 #### Section 2
 
-Safe Steps to Cross the Road:  
-• Stop at the crossing.  
-• Look left and right several times.  
-• Walk, don’t run, while crossing.  
-• Use traffic lights and pedestrian crossings when available.
+Safe steps to cross the road:
 
-### Design Your Infographics
+- Stop at the crossing.
+- Look left and right several times.
+- Walk, don't run, while crossing.
+- Use traffic lights and pedestrian crossings when available.
 
-- Use road-related visuals like pedestrian markings, traffic lights, and cars.
-- Highlight each safety step with bold headers and colorful pictures/icons.
+### Design Your Infographic
 
+- Use road-related visuals: pedestrian markings, traffic lights, and cars.
+- Use bold headers and colorful icons to make each safety step stand out.

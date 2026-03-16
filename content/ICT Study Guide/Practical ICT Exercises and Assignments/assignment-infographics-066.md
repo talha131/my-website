@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 066
 slug: assignment-infographics-066
 weight: 66
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic showing the life cycle of stars from nebula to final fate, with branching paths for low-mass and high-mass stars and key terms like supernova, white dwarf, and black hole.
 ---
 
 {{< callout type="info" >}}
@@ -12,36 +12,34 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic about the Life Cycle of Stars, explaining the stages from formation to eventual fate.
+Create an infographic in Canva that shows the life cycle of stars, from formation to their eventual fate.
 
 ## Instructions
 
-- Research the stages of stellar evolution for different star masses.
-- Understand the processes of star formation and death.
+Research the stages of stellar evolution for different star masses. Learn about the processes of star formation and how stars die.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
 - Outline the main stages: nebula, protostar, main sequence, red giant, and final stages.
-- Plan sections for explaining the different fates of low-mass and high-mass stars.
+- Plan separate paths for low-mass stars and high-mass stars, since their fates differ.
 
-### Design Your Infographics
+### Design in Canva
 
-- Create or use illustrations of stars at different life stages.
-- Include a size comparison of different types of stars.
-- Use a color gradient from cool blues to hot reds to represent star temperatures.
-- Choose a clear, modern font for easy reading of scientific terms.
-- Create a circular or spiral layout to show the cyclical nature of stellar evolution.
-- Use branching paths to show different outcomes for stars of different masses.
+- Use illustrations of stars at different life stages.
+- Include a size comparison of different star types.
+- Use a color gradient from cool blues to hot reds to show differences in star temperature.
+- Choose a clear, modern font so scientific terms remain readable.
+- Use a spiral or circular layout to show the cyclical nature of stellar evolution.
+- Use branching paths to show the different outcomes for stars of different masses.
 
-### Add Important Details
+### Content to Include
 
-- Explain key terms like supernova, white dwarf, and black hole.
-- Include timescales for different stages of stellar evolution.
-- Add information about how elements are created in stars.
-- Mention the sun's place in this cycle and its expected lifespan.
+- Definitions of key terms: supernova, white dwarf, neutron star, black hole.
+- Timescales for the different stages of stellar evolution.
+- How elements are created inside stars.
+- Where our Sun sits in this cycle and its expected lifespan.
 
-### Final Review & Improvements
+### Final Review
 
 - Check for scientific accuracy in your explanations.
-- Ensure the infographic clearly shows the progression and different outcomes of stellar evolution.
-
+- Make sure the infographic clearly shows both the progression of stages and the different outcomes for different star types.

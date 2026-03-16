@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 072
 slug: assignment-infographics-072
 weight: 72
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about top tourist destinations in Pakistan, organized by category - northern mountains, cultural heritage sites, religious landmarks, and coastal attractions.
 ---
 
 {{< callout type="info" >}}
@@ -12,64 +12,46 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an engaging infographic that highlights the best places to visit in Pakistan. Students will showcase the cultural diversity, natural beauty, and historical landmarks of Pakistan through visuals and key facts. The goal is to give viewers a quick and appealing overview of the top tourist destinations in the country.
+Create an infographic in Canva that gives viewers an overview of the best places to visit in Pakistan, covering its natural beauty, cultural diversity, and historical landmarks.
 
 ## Instructions
 
-Find reliable information about the following:  
+Find reliable information about:
 
-- The **geography** and **tourist hotspots** of Pakistan.  
-- Popular types of destinations, such as:  
-  - **Mountains and valleys** (e.g., Hunza, Swat, Neelum Valley).  
-  - **Cultural and historic sites** (e.g., Lahore Fort, Mohenjo-Daro).  
-  - **Religious landmarks** (e.g., Faisal Mosque, Badshahi Masjid).  
-  - **Beaches** and other **natural attractions** (e.g., Gwadar, Clifton Beach).  
-- Key highlights of each location (e.g., activities, unique features).  
+- The geography and tourist destinations of Pakistan.
+- Popular types of destinations:
+  - Mountains and valleys (Hunza, Swat, Neelum Valley).
+  - Cultural and historic sites (Lahore Fort, Mohenjo-Daro).
+  - Religious landmarks (Faisal Mosque, Badshahi Masjid).
+  - Beaches and natural attractions (Gwadar, Clifton Beach).
+- Key highlights of each location: activities and unique features.
 
-Use trustworthy sources like travel blogs, tourism websites, or books.
+Use trustworthy sources such as travel blogs, tourism websites, or books.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-Organize the information into these suggested sections:  
+Organize the content into these sections:
 
-- **Title:** A catchy headline like "Top Places to Visit in Pakistan 🇵🇰"  
-- **Introduction (Optional):** Write 1-2 sentences about why Pakistan is a great travel destination.  
-- **Main Content:** Categories like:  
-  - Northern Areas (mountains and valleys).  
-  - Cultural Heritage.  
-  - Islands and Beaches.  
-- **Call to Action:** Encourage readers to explore Pakistan or learn more.  
+- A title such as "Top Places to Visit in Pakistan."
+- Main content organized by category:
+  - Northern Areas (mountains and valleys).
+  - Cultural Heritage.
+  - Islands and Beaches.
 
-### Design Your Infographics
+### Design in Canva
 
-To make it visually stunning:  
+- Divide the infographic into clear sections with a label for each category.
+- Use related icons and images: snowy peaks for northern areas, mosques or forts for cultural landmarks, waves for beaches.
+- Use green and white (Pakistan's flag colors) with complementary shades.
+- Select bold, readable fonts for headings and smaller fonts for details.
+- Use bullet points or short descriptions for each place (for example: Swat Valley - trekking and green scenery).
 
-- **Layout:** Divide the infographic into clear sections with labels for each category.  
-- **Icons & Images:** Use related visuals:  
-  - Snowy peaks for Northern areas.  
-  - Mosques or forts for cultural landmarks.  
-  - Waves or palm trees for beaches.  
-- **Color Theme:** Use green and white (Pakistan's flag colors) with complementary shades.  
-- **Fonts:** Select bold, readable fonts for headings and smaller fonts for details.  
-- **Visual Organization:** Arrange places in **categories** with bullet points or short descriptions (e.g., Swat Valley – Trekking and lush green scenery).  
+### Content to Include
 
-### Add Important Details
+- Key facts such as "Pakistan has 5 of the 14 highest peaks in the world (K2, Nanga Parbat, etc.)."
+- Annual tourist figures if you can find them.
 
-Include interesting facts like:  
+### Final Review
 
-- Pakistan has **5 of the 14 highest peaks in the world (K2, Nanga Parbat, etc.)**.  
-- How many tourists visit Pakistan annually.  
-- Add a travel quote or fun slogan like:  
-    - *"Travel Pakistan: Home to Nature, Culture, and Adventure!"*  
-
-### Call to Action
-
-End with something like:  
-
-*"Plan Your Trip and Discover the Beauty of Pakistan Today!"*
-
-### Final Review & Improvements**  
-- **Proofread:** Check for spelling/grammar mistakes.  
-- **Visual Check:** Ensure it's not cluttered.  
-- **Alignment:** Double-check that titles, icons, and text are aligned properly.  
-
+- Check for spelling and grammar mistakes.
+- Make sure the design is not cluttered and that titles, icons, and text are aligned properly.

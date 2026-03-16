@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 067
 slug: assignment-infographics-067
 weight: 67
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about Saturn covering its ring system composition, notable moons like Titan, atmospheric features, and key facts about its size and position in the solar system.
 ---
 
 {{< callout type="info" >}}
@@ -14,41 +14,40 @@ Exploring Saturn
 
 ## Objective
 
-Create an infographic about Saturn, focusing on its unique characteristics, such as its famous rings, position in the solar system, and other significant facts.
+Create an infographic in Canva about Saturn, focusing on its rings, position in the solar system, and other notable features.
 
 ## Instructions
 
-Find information about
+Find information about:
 
 - Saturn's size, position, and distance from the Sun.
-- Its famous ring system and what it is made of.
-- Other unique features, such as its moons and atmosphere.
-- Use reliable sources like NASA, encyclopedias, or science websites.
+- Its ring system and what it is made of.
+- Its moons and atmosphere.
 
-### Plan Your Infographics
+Use reliable sources such as NASA, encyclopedias, or science websites.
 
-Outline sections for your infographic
+### Plan Your Infographic
 
-- "Introduction to Saturn" (basic facts like size, distance).
-- "Saturn's Rings" (key details about their composition and beauty).
-- "Why is Saturn Unique?" (focus on its moons like Titan, atmosphere, or storms).
+Organize the content into sections:
 
-### Design Your Infographics
+- Introduction to Saturn: basic facts like size and distance from the Sun.
+- Saturn's Rings: composition and key details.
+- Why Saturn is Unique: its moons such as Titan, its atmosphere, or notable storms.
 
-- Include visuals like
-    - A picture of Saturn and its rings.
-    - Diagrams of its position in the solar system.
-- Use starry-themed or planetary-themed icons.
-- Use colors like yellow, orange, and black (to represent space themes).
-- Choose clear fonts for titles and text.
-- Divide the content into neat sections with headings like "Fun Facts about Saturn."
+### Design in Canva
 
-### Add Important Details
+- Include a picture of Saturn and its rings.
+- Include a diagram showing its position in the solar system.
+- Use starry or planetary-themed icons.
+- Use colors like yellow, orange, and black to reflect space themes.
+- Choose clear fonts for titles and body text.
+- Divide the content into sections with clear headings.
 
-- Include stats like "Saturn has 83 moons."
-- Add quotes or citations from reliable resources.
+### Content to Include
 
-### Final Review & Improvements
+- Stats such as "Saturn has 83 moons."
+- Citations from the sources you used.
 
-- Double-check for spelling errors and clarity.
+### Final Review
 
+- Check for spelling errors and make sure the text is clear.

@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 003
 slug: assignment-infographics-003
 weight: 3
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a tree diagram infographic on career paths in education using Canva. The diagram maps the choices available after completing a B.Ed. degree, from teaching and administration to specialized roles.
 ---
 
 {{< callout type="info" >}}
@@ -14,13 +14,13 @@ Career Path in Education
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
-3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. This means you should organize the information in a hierarchical structure, with branches representing different categories or levels of information.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
+3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. Organize the information in a hierarchical structure, with branches representing different categories or levels of information.
 
 ### Root Node
 
@@ -48,4 +48,3 @@ Transform the provided data into a visually engaging and informative infographic
 
 - Node 8: "Special Education" - A heart within a puzzle piece.
 - Node 9: "Educational Technology" - A laptop or a digital tablet icon.
-

@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 064
 slug: assignment-infographics-064
 weight: 64
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about the Voyager Golden Record, explaining what it contains, how it was designed to be read, and the current location of the Voyager spacecraft.
 ---
 
 {{< callout type="info" >}}
@@ -12,36 +12,33 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic about the Golden Record on the Voyager spacecraft, explaining its contents and significance in space exploration.
+Create an infographic in Canva about the Golden Record carried by the Voyager spacecraft, explaining its contents and why it was sent into space.
 
 ## Instructions
 
-- Research the Voyager mission and the purpose of the Golden Record.
-- Understand the contents of the record and how they were chosen.
+Research the Voyager mission and the purpose of the Golden Record. Look into what is on the record and how the contents were selected.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Outline the types of information included on the Golden Record.
-- Plan sections for explaining the record's physical properties and how to play it.
+- Outline the types of information on the Golden Record.
+- Plan sections for its physical properties and instructions for playing it.
 
-### Design Your Infographics
+### Design in Canva
 
 - Include an image of the Golden Record and its cover.
-- Use icons to represent different categories of content (music, greetings, sounds of Earth).
-- Use a gold color scheme to represent the record, with complementary colors.
+- Use a gold color scheme for the record, with complementary colors for other sections.
+- Use icons to represent different categories of content: music, greetings, sounds of Earth.
 - Choose a retro-futuristic font for headings and a clear font for details.
-- Create a circular layout mimicking the record's shape.
-- Use sections radiating from the center to categorize different types of content.
+- Create a circular layout that mirrors the shape of the record, with sections radiating from the center for different content types.
 
-### Add Important Details
+### Content to Include
 
-- Explain the purpose of sending this record into space.
-- Include examples of sounds, images, and messages included on the record.
-- Add information about the Voyager missions and their current locations.
-- Mention the estimated lifespan of the Golden Record.
+- Why this record was sent into space.
+- Examples of the sounds, images, and messages included.
+- Information about the Voyager missions and where the spacecraft are now.
+- The estimated lifespan of the Golden Record.
 
-### Final Review & Improvements
+### Final Review
 
 - Check for historical and scientific accuracy.
-- Ensure the infographic captures the significance and wonder of this cosmic time capsule.
-
+- Make sure the infographic conveys both the facts and the purpose behind this project.

@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 069
 slug: assignment-infographics-069
 weight: 69
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about Pluto explaining its discovery, key physical features, its five moons, and the 2006 IAU decision that reclassified it as a dwarf planet.
 ---
 
 {{< callout type="info" >}}
@@ -14,44 +14,39 @@ Pluto - The Dwarf Planet
 
 ## Objective
 
-Design an infographic explaining Pluto, its characteristics, and why it is no longer considered a planet.
+Create an infographic in Canva about Pluto, its characteristics, and why it was reclassified as a dwarf planet.
 
 ## Instructions
 
-Explore
+Research:
 
 - Pluto's original classification and why it was called a planet.
-- Its reclassification as a "dwarf planet" in 2006 by the IAU.
-- Key features like its moons, size, and orbit.
+- Its reclassification as a dwarf planet in 2006 by the IAU.
+- Key features: its moons, size, and orbit.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-Outline sections for
+Organize the content into sections:
 
-- "Introduction to Pluto" (name, discovery, and features).
-- "Why is Pluto Unique?" (its location, small size, and comparison to planets).
-- "Why is it NOT a Planet?" (focus on the key reasons, like orbit and size).
+- Introduction to Pluto: name, discovery, and key features.
+- Why Pluto is Unique: its location, small size, and comparison to the planets.
+- Why it is Not a Planet: the key reasons, including orbit and size criteria.
 
-### Design Your Infographics
+### Design in Canva
 
-Use visuals like,
-
-- A diagram comparing Pluto to Earth (size difference).
-- A timeline or chart showing Pluto’s reclassification.
-- Add planet and space-themed icons.
-- Use dark blues and greys to reflect Pluto’s icy features.
+- Include a diagram comparing Pluto's size to Earth.
+- Include a timeline or chart showing Pluto's reclassification.
+- Use planet and space-themed icons.
+- Use dark blues and greys to reflect Pluto's icy appearance.
 - Use clear, small fonts for details and bold fonts for headings.
-- Arrange sections with titles like "Dwarf Planet Pluto" and "The 2006 IAU Decision."
+- Use section titles such as "Dwarf Planet Pluto" and "The 2006 IAU Decision."
 
-### Add Important Details
+### Content to Include
 
-Include,
+- Facts such as "Pluto has 5 moons, including Charon."
+- A size comparison: Earth is roughly 150 times larger than Pluto.
+- Citations for any data you use.
 
-- Facts like "Pluto has 5 moons, including Charon."
-- A brief comparison to planets: "Earth is ~150 times bigger than Pluto!"
-- Cite any sources used for factual accuracy.
+### Final Review
 
-### Final Review & Improvements
-
-- Ensure visuals and text are well-balanced.
-
+- Make sure visuals and text are well-balanced before submitting.

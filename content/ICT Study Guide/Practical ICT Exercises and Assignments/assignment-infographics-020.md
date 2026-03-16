@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 020
 slug: assignment-infographics-020
 weight: 20
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a cybersecurity tips infographic using Canva. The infographic covers practical steps for everyday internet users - including strong passwords, phishing awareness, software updates, VPNs, backups, and multi-factor authentication.
 ---
 
 {{< callout type="info" >}}
@@ -14,7 +14,7 @@ Cybersecurity Essentials: Practical Tips for Protecting Your Digital Life
 
 ## Objective
 
-Develop an engaging infographic that serves as a quick-reference guide on cybersecurity, offering practical and easy-to-understand tips for everyday internet users. Your infographic should aim to educate the audience on simple yet effective practices to safeguard their personal information and digital devices against common cyber threats.
+Develop an infographic that works as a quick-reference guide on cybersecurity, offering practical and easy-to-understand tips for everyday internet users. Your infographic should educate the audience on simple but effective practices to protect their personal information and digital devices against common cyber threats.
 
 ## Instructions
 
@@ -26,15 +26,14 @@ Develop an engaging infographic that serves as a quick-reference guide on cybers
 ### Key Elements to Include
 
 - Offer advice on creating strong, unique passwords and the importance of using a password manager.
-- Tips on how to recognize and avoid phishing emails or messages, emphasizing not clicking on suspicious links.
-- Highlight the critical nature of keeping operating systems and applications up-to-date as a defense against vulnerabilities.
+- Tips on how to recognize and avoid phishing emails or messages, with a focus on not clicking suspicious links.
+- Cover the importance of keeping operating systems and applications up-to-date as a defense against vulnerabilities.
 - Recommend the use of secure connections, such as VPNs for public Wi-Fi and the importance of HTTPS websites.
-- Stress the significance of regular data backups to prevent data loss in the event of a cyber attack.
-- Encourage the activation of MFA on all accounts that offer it, explaining briefly how it adds an extra layer of security.
+- Cover the importance of regular data backups to prevent data loss in the event of a cyber attack.
+- Encourage the activation of multi-factor authentication (MFA) on all accounts that offer it, and briefly explain how it adds an extra layer of security.
 
 ### Designing Your Infographics
-- Select a graphic design tool known for its ease of use and ability to create visually compelling infographics, with access to a variety of icons and templates.
-- Use icons and illustrations that are related to security, such as locks, shields, and digital devices, to visually represent each tip. Opt for a color scheme that suggests safety and trust, such as blues and greens.
-- Organize the infographic into distinct sections for each cybersecurity tip. Use clear headings and concise bullet points to ensure the advice is straightforward and actionable.
-- Your infographic should be approachable and easy to comprehend, targeting a general audience/that may not have a deep understanding of cybersecurity.
-
+- Use [Canva](https://www.canva.com/) to design your infographic. Choose a template with access to a variety of security-related icons and layouts.
+- Use icons and illustrations related to security, such as locks, shields, and digital devices, to represent each tip. Blues and greens work well as a color scheme for this topic.
+- Organize the infographic into distinct sections for each cybersecurity tip. Use clear headings and concise bullet points so the advice is easy to follow.
+- Keep the language simple and accessible. Target a general audience that may not have a deep background in cybersecurity.

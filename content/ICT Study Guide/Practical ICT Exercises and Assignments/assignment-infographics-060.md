@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 060
 slug: assignment-infographics-060
 weight: 60
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic explaining the eight phases of the moon and the conditions for lunar eclipses, using circular diagrams and Sun-Earth-Moon alignment visuals.
 ---
 
 {{< callout type="info" >}}
@@ -12,36 +12,32 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic that explains the Moon's Phases and Lunar Eclipses, helping viewers understand these celestial phenomena.
+Create an infographic in Canva that explains the Moon's phases and how lunar eclipses occur.
 
 ## Instructions
 
-- Research the causes of moon phases and the conditions for lunar eclipses.
-- Understand the difference between solar and lunar eclipses.
+Research the causes of moon phases and the conditions required for lunar eclipses. Make sure you understand the difference between solar and lunar eclipses before you begin.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
 - Outline the 8 main phases of the moon.
-- Plan sections for explaining lunar eclipses (partial and total).
+- Plan a separate section explaining partial and total lunar eclipses.
 
-### Your Infographics
+### Design in Canva
 
-- Create or use diagrams showing the positions of the Sun, Earth, and Moon.
-- Include images of the moon in its different phases.
-- Use a dark background with light text to represent the night sky.
+- Use diagrams showing the positions of the Sun, Earth, and Moon.
+- Use a dark background with light text to suggest the night sky.
 - Choose a clean, easy-to-read font for explanations.
-- Create a circular layout for moon phases.
-- Use a separate section to explain lunar eclipses.
+- Use a circular layout for the moon phases and a separate panel for lunar eclipses.
 
-### Add Important Details
+### Content to Include
 
-- Label each moon phase clearly.
-- Explain why we see different phases from Earth.
-- Include information on the frequency of lunar eclipses.
-- Add interesting facts about the moon (e.g., its distance from Earth, its effect on tides).
+- A clear label for each moon phase.
+- An explanation of why we see different phases from Earth.
+- Information on how often lunar eclipses occur.
+- Interesting facts about the moon: its distance from Earth, its effect on tides.
 
-### Final Review & Improvements
+### Final Review
 
 - Check for scientific accuracy in your explanations.
-- Ensure the visuals clearly demonstrate the concepts.
-
+- Make sure the visuals clearly show the concepts.

@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 002
 slug: assignment-infographics-002
 weight: 2
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a tree diagram infographic on lesson planning using Canva. The diagram starts from a lesson objective and branches through subject matter and student needs down to specific instructional strategies.
 ---
 
 {{< callout type="info" >}}
@@ -14,13 +14,13 @@ Lesson Planning Approach
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
-3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. This means you should organize the information in a hierarchical structure, with branches representing different categories or levels of information.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
+3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. Organize the information in a hierarchical structure, with branches representing different categories or levels of information.
 
 ### Root Node
 
@@ -36,7 +36,7 @@ Transform the provided data into a visually engaging and informative infographic
 #### Branching from "Subject Matter"
 
 - Node 3: "Concept Complexity" - A brain or a puzzle piece to indicate the difficulty level of the concept.
-- Node 4: "Curricular Alignment" - A checklist or a book with a checkmark to ensure the lesson aligns with the curriculum standards.
+- Node 4: "Curricular Alignment" - A checklist or a book with a checkmark to ensure the lesson aligns with curriculum standards.
 
 #### Branching from "Student Needs"
 
@@ -64,4 +64,3 @@ Transform the provided data into a visually engaging and informative infographic
 
 - Node 13: "Review Session" - A rewind icon to indicate revisiting previous concepts.
 - Node 14: "Advanced Topics" - A forward arrow with a book to introduce more advanced concepts based on the students' existing knowledge.
-

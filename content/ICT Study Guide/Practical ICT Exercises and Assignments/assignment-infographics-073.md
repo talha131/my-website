@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 073
 slug: assignment-infographics-073
 weight: 73
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about exam anxiety covering its causes, physical and mental symptoms, and practical strategies for managing stress before and during exams.
 ---
 
 {{< callout type="info" >}}
@@ -10,64 +10,47 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 {{< /callout >}}
 
 
-## Objective  
+## Objective
 
-- Help students understand the concept of **exam anxiety** and its impact on performance.  
-- Provide effective and practical tips to **prevent and manage exam anxiety**.  
-- Encourage students to stay positive and confident during exams.  
+Create an infographic in Canva that explains exam anxiety - what causes it, how it affects students, and what they can do to manage it.
 
-## Instructions  
+## Instructions
 
-1. Gather information on:  
-   - What is exam anxiety? (Causes and symptoms)  
-   - How it affects students (e.g., performance, health, and confidence).  
-   - Ways to avoid or reduce exam anxiety (study strategies, mindfulness, etc.).  
+Gather information on:
 
-2. Use credible resources such as:  
-   - Educational websites or blogs.  
-   - Reliable mental health platforms (like reputable student or health organizations).  
-   - Articles on exam preparation from experts.  
+- What exam anxiety is, including its causes and symptoms.
+- How it affects students: performance, health, and confidence.
+- Ways to reduce exam anxiety: study strategies, relaxation techniques, and lifestyle habits.
 
-## Plan Your Infographics  
+Use credible sources such as educational websites, student support organizations, or mental health platforms.
 
-1. **Sections to Include**:  
-   - **Introduction**: Quick definition of exam anxiety (use a short sentence).  
-   - **Causes**: Brief list of what triggers anxiety (examples: poor preparation, fear of failure).  
-   - **Symptoms**: Highlight common symptoms (headaches, inability to concentrate, etc.).  
-   - **Tips to Avoid Anxiety**: Include effective strategies to manage stress. Examples:  
-     - Setting a study schedule.  
-     - Practicing relaxation techniques.  
-     - Getting enough sleep and staying healthy.  
-   - **Encouraging Quote/Motivation**: End with a positive message about succeeding with proper preparation.  
+### Plan Your Infographic
 
-2. Organize your information logically. Start with the problem (exam anxiety) and follow with solutions (tips).  
+Structure the content in this order:
 
-## Design Your Infographics  
+- **Introduction:** A short definition of exam anxiety.
+- **Causes:** What triggers anxiety, such as poor preparation or fear of failure.
+- **Symptoms:** Common physical and mental symptoms, such as headaches and difficulty concentrating.
+- **Tips to Manage Anxiety:** Practical strategies, for example:
+  - Setting a study schedule.
+  - Practicing relaxation techniques.
+  - Getting enough sleep.
 
-- Use warm, calming colors like **blue, pastel pink, or light green** to create a soothing effect.  
-- Include **relevant icons/images** for each section, like:  
-  - A person sweating nervously for the "Symptoms" section.  
-  - A calendar for "Set a Study Schedule."  
-  - A yoga pose or meditation icon for relaxation tips.  
-- Use clear and **readable fonts** (e.g., Arial, Tahoma).  
-- Break sections into **clear boxes or panels** to separate content visually.  
-- Avoid making the design cluttered—keep extra space between sections.  
+### Design in Canva
 
-## Add Important Details  
+- Use calm colors such as blue, pastel pink, or light green.
+- Include relevant icons for each section: a calendar for study scheduling, a yoga figure for relaxation tips.
+- Use clear, readable fonts.
+- Break content into clearly separated boxes or panels.
+- Leave enough space between sections so the design does not feel crowded.
 
-- Use **numbers or bullet points** for tips (helps make the content easy to scan).  
-- Optional: Add a **small chart or data** (like a percentage of students experiencing exam anxiety).  
-- Reference any important source if using specific data/statistics.  
+### Content to Include
 
-## Call to Action  
+- Use numbered lists or bullet points for the tips so they are easy to scan.
+- Add a statistic on exam anxiety if you can find one with a clear source.
 
-- End with a motivational statement like:  
-   - “Remember, preparation is the key to confidence. You’ve got this!”  
-- Add a reminder: “Reach out to teachers or counselors for more support if needed.”  
+### Final Review
 
-## Final Review & Improvements  
-
-- Review for spelling, grammar, and tone consistency.  
-- Ensure the information is arranged **by priority** (most important tips first).  
-- Double-check visual alignment (icons, images, and text).  
-
+- Review for spelling, grammar, and consistent tone.
+- Make sure the most important tips appear first.
+- Check that icons, images, and text are aligned properly.

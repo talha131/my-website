@@ -1,8 +1,8 @@
 ---
-title: Assignment Infographics 074  
-linktitle: Infographics Assignment 074  
-slug: assignment-infographics-074  
-description: Create an infographic explaining solar and lunar eclipses, their formation, and key differences in a visually engaging manner. Enhance your creativity and understanding of celestial phenomena.  
+title: Assignment Infographics 074
+linktitle: Infographics Assignment 074
+slug: assignment-infographics-074
+description: Create a Canva infographic comparing solar and lunar eclipses side by side, using alignment diagrams showing umbra and penumbra, and a comparison table of key differences.
 weight: 74
 ---
 
@@ -11,63 +11,56 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 {{< /callout >}}
 
 
-This assignment involves designing a visually engaging infographic to explain **solar and lunar eclipses**, their formation, and key differences. The infographic should use diagrams, charts, and labels to simplify these celestial phenomena.
+This assignment asks you to design an infographic in Canva that explains solar and lunar eclipses, how each one forms, and how they differ from each other.
 
+## Objective
 
-## Objective  
+Create an infographic that helps viewers understand:
 
-Create an infographic that helps viewers understand:  
-1. **What are solar and lunar eclipses?**  
-2. **How are they formed?**  
-3. **Key comparisons between the two phenomena.**  
+1. What solar and lunar eclipses are.
+2. How each type forms.
+3. The key differences between the two.
 
-## Assignment Details  
+## Assignment Details
 
-### Title  
+### Title
 
 Understanding Solar and Lunar Eclipses
 
-### Instructions  
+### Instructions
 
-1. **Research**  
-   Collect essential information about solar and lunar eclipses. Focus on:  
-   - Definitions and basic concepts.  
-   - The difference between solar and lunar eclipses.  
-   - How eclipses form (alignment of the Sun, Moon, and Earth).  
+**1. Research**
 
-   **Keywords for Research:**  
-   - Solar eclipse explanation.  
-   - Lunar eclipse process.  
-   - Differences between solar and lunar eclipses.  
+Collect information on solar and lunar eclipses. Focus on:
 
-2. **Infographic Structure**  
-   Divide your infographic into these sections:  
-   - **Introduction**: Briefly define eclipses and their significance.  
-   - **Solar Eclipse**:  
-     - Define a solar eclipse.  
-     - Use a diagram showing the Sun, Moon, and Earth alignment.  
-     - Explain the occurrence of solar eclipses, such as total, partial, and annular eclipses.  
-   - **Lunar Eclipse**:   
-     - Define a lunar eclipse.  
-     - Create a diagram showing the Earth, Moon, and Sun alignment.  
-     - Explain how Earth's shadow blocks sunlight to the Moon (umbra and penumbra).  
-   - **Comparison Section**:  
-     - Use a chart or table to compare solar and lunar eclipses (e.g., occurrence during the day vs. night, visibility area, frequency).  
+- Definitions and basic concepts.
+- The difference between the two types of eclipse.
+- How each eclipse forms through the alignment of the Sun, Moon, and Earth.
 
-3. **Design Tips**  
-   - Include **bright and bold visuals** to highlight celestial bodies.  
-   - Label diagrams clearly to identify shadows (umbra and penumbra) and alignments.  
-   - Use **arrows** to show the direction of light and shadow.  
-   - Keep the layout clean and easy to follow.  
+Keywords for research: solar eclipse explanation, lunar eclipse process, differences between solar and lunar eclipses.
 
-4. **Essential Components**  
-   - Short, clear text describing solar and lunar eclipses.  
-   - Diagrams illustrating the alignment of the Sun, Earth, and Moon during each type of eclipse.  
-   - A comparison table listing their differences concisely.  
+**2. Infographic Structure**
 
-### Key Learning Outcome  
+Divide your infographic into these sections:
 
-By completing this assignment, the infographic should:  
-- Provide a clear explanation of solar and lunar eclipses.  
-- Use diagrams and visuals to simplify complex concepts.  
-- Highlight the similarities and differences between the two phenomena.  
+- **Introduction:** A brief definition of eclipses.
+- **Solar Eclipse:** Define it, show the Sun-Moon-Earth alignment in a diagram, and explain the three types: total, partial, and annular.
+- **Lunar Eclipse:** Define it, show the Earth-Moon-Sun alignment in a diagram, and explain how Earth's shadow (umbra and penumbra) falls on the Moon.
+- **Comparison Section:** A table or chart comparing solar and lunar eclipses - for example: day vs. night occurrence, visibility area, and frequency.
+
+**3. Design Tips**
+
+- Use bright, bold visuals to show the celestial bodies.
+- Label diagrams clearly to identify the umbra, penumbra, and alignments.
+- Use arrows to show the direction of light and shadow.
+- Keep the layout clean and easy to follow.
+
+**4. Required Elements**
+
+- Short, clear descriptions of both eclipse types.
+- Diagrams showing the alignment of the Sun, Earth, and Moon for each type.
+- A comparison table listing their differences.
+
+### Key Learning Outcome
+
+By completing this assignment, your infographic should give a clear explanation of both eclipse types, use diagrams to simplify the concepts, and show the key similarities and differences between them.

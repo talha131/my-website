@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 007
 slug: assignment-infographics-007
 weight: 7
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a Markov Process infographic on a student's daily routine using Canva. The diagram maps 11 states - from morning at home through school, extracurriculars, homework, and leisure to bedtime - with weighted transition probabilities between each state.
 ---
 
 {{< callout type="info" >}}
@@ -14,12 +14,12 @@ A Student's Daily Routine
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
 3. **Design Your Infographics:** Based on the data, your infographic should take the form of a [**Markov Process**](https://en.wikipedia.org/wiki/Markov_chain#/media/File:Markovkate_01.svg).
 
 #### Nodes (States)
@@ -50,4 +50,3 @@ Transform the provided data into a visually engaging and informative infographic
 - Homework Time to Leisure/Free Time: 0.8 (After homework, students are likely to take some leisure time)
 - Leisure/Free Time to Bedtime: 0.9 (High likelihood of going to bed after some relaxation)
 - Bedtime to Home (Morning): 0.95 (Indicating the cycle restarts the next day)
-

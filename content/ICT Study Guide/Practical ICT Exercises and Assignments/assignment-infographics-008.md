@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 008
 slug: assignment-infographics-008
 weight: 8
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a Markov Process infographic on educational content engagement using Canva. The diagram maps 7 classroom states - lecture, interactive activity, group discussion, multimedia, independent study, assessment, and break - with weighted transition probabilities between each.
 ---
 
 {{< callout type="info" >}}
@@ -14,12 +14,12 @@ Educational Content Engagement
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
 3. **Design Your Infographics:** Based on the data, your infographic should take the form of a [**Markov Process**](https://en.wikipedia.org/wiki/Markov_chain#/media/File:Markovkate_01.svg).
 
 ### Nodes (States)
@@ -43,4 +43,3 @@ Transform the provided data into a visually engaging and informative infographic
 - Break/Recess to Lecture: 0.5 (After a break, students might return to a more structured lecture format, though other activities could also follow.)
 - Any state to Lecture: 0.2 (From any engagement activity, there's always a chance to return to a lecture for new information or summaries.)
 - Any state to Break/Recess: 0.1 (There's a small probability from any activity to transition into an unscheduled break, depending on the class dynamics.)
-

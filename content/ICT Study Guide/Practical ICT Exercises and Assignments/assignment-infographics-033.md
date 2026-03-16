@@ -2,44 +2,39 @@
 title: Assignment - Infographics - 033
 slug: assignment-infographics-033
 weight: 33
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students use Canva to build an infographic about unusual accommodations around the world, such as treehouses, ice hotels, and underwater hotels, with key details for each type.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
 ## Objective
 
 Create an infographic about unique accommodations around the world.
 
-## Instruction
+## Instructions
 
-- Identify and research unique accommodations worldwide, such as treehouses, underwater hotels, ice hotels, and converted spaces like caves or airplanes.
-- Gather relevant information about each accommodation, including location, unique features, amenities, and any interesting facts or stories.
-- Design the infographic layout, deciding on the format, color scheme, and visual elements you'll use to represent the information effectively.
-- Create the infographic using graphic design software or online tools, incorporating the researched information and visuals into the chosen layout.
+- Research unusual accommodations such as treehouses, underwater hotels, ice hotels, and converted spaces like caves or repurposed aircraft.
+- Gather details about each: location, distinctive features, amenities, and any interesting facts.
+- Plan the layout, color scheme, and visual elements before starting in Canva.
+- Build the infographic using the information and visuals you have collected.
 
 ## Background
 
-- Provide a brief introduction to the concept of unique accommodations and why they are popular among travelers.
-- Highlight the diversity of accommodation options available worldwide, showcasing different types and their appeal to adventurous travelers seeking memorable experiences.
+- Write a short introduction explaining what makes these accommodations stand out and why they attract travelers.
 
 ## Key Elements
 
-- Catchy and descriptive, such as "World's Most Unique Accommodations."
-- Organize accommodations into categories based on their unique features, such as "Treehouses," "Underwater Hotels," "Ice Hotels," and "Converted Spaces."
-- Include key details about each accommodation, such as location, unique features, amenities, and any noteworthy facts or stories.
-- Use images or icons to represent each accommodation type and its distinctive features.
-- Optionally, include a map to show the locations of the featured accommodations around the world.
-- Encourage readers to explore more about these accommodations or share the infographic on social media.
+- A clear, descriptive title such as "World's Most Unique Accommodations."
+- Categories based on type: treehouses, underwater hotels, ice hotels, and converted spaces.
+- Key details for each accommodation: location, features, and noteworthy facts.
+- Images or icons representing each type.
+- A world map showing where the featured accommodations are located (optional).
 
 ## Presentation
 
-- Keep the design visually appealing and easy to read, with clear headings, concise text, and ample white space.
-- Use a consistent color scheme and font style throughout the infographic for coherence.
-- Incorporate eye-catching visuals, such as high-quality images, icons, or illustrations, to enhance engagement.
-- Arrange the information logically, with a flow that guides the reader through the different types of accommodations.
-- Ensure the infographic is easily shareable on social media platforms and can be embedded on websites or blogs for wider distribution.
-
+- Keep the design easy to read, with clear headings, short text, and enough white space.
+- Use a consistent color scheme and font throughout.
+- Add clear visuals - icons, illustrations, or high-quality images - to hold the reader's attention.
+- Arrange the information so the reader moves through the categories in a natural order.

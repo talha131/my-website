@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 001
 slug: assignment-infographics-001
 weight: 1
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a tree diagram infographic on classroom management strategies using Canva. The diagram maps a classroom scenario through three levels - from identifying the primary issue, to specific problems, to teacher responses.
 ---
 
 {{< callout type="info" >}}
@@ -14,13 +14,13 @@ Classroom Management Strategies
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
-3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)](https://miro.com/diagramming/what-is-a-tree-diagram/)**. This means you should organize the information in a hierarchical structure, with branches representing different categories or levels of information.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
+3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)](https://miro.com/diagramming/what-is-a-tree-diagram/)**. Organize the information in a hierarchical structure, with branches representing different categories or levels of information.
 
 ### Root Node
 
@@ -47,7 +47,7 @@ Transform the provided data into a visually engaging and informative infographic
 #### Branching from "Classroom Environment"
 
 - Node 8: "Noisy" - Sound waves or a bell to indicate excessive noise.
-- Node 9: "Calm" - A peace sign or a serene landscape to represent a calm and conducive learning environment.
+- Node 9: "Calm" - A peace sign or a serene scene to represent a calm and conducive learning environment.
 
 ### Level 3: Strategies
 
@@ -80,4 +80,3 @@ Transform the provided data into a visually engaging and informative infographic
 
 - Node 20: "Maintain Routine" - A checkmark to continue with planned activities.
 - Node 21: "Introduce New Activity" - A light bulb with a plus sign to add a new element while the environment is receptive.
-

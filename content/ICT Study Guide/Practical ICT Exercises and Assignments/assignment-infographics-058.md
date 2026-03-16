@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 058
 slug: assignment-infographics-058
 weight: 58
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva timeline infographic covering 10-15 major milestones in human space exploration from the 1950s to the present, categorized by mission type.
 ---
 
 {{< callout type="info" >}}
@@ -12,32 +12,31 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic that visually represents the Space Exploration Timeline, highlighting key milestones and achievements in human space exploration.
+Create an infographic in Canva that maps the Space Exploration Timeline, covering key milestones from the 1950s to the present.
 
 ## Instructions
 
-- Research major space exploration events from the 1950s to present day.
-- Focus on key missions, first achievements, and significant technological advancements.
+Research major space exploration events from the 1950s to today. Focus on key missions, first achievements, and notable technological advances.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Outline 10-15 major milestones (e.g., First satellite, First human in space, Moon landing, Mars rovers).
-- Note the year and brief description for each event.
+Outline 10-15 major milestones - for example: first satellite, first human in space, Moon landing, Mars rovers. For each event, note the year, a brief description, and the country or agency involved.
 
-### Design Your Infographics
+### Design in Canva
 
 - Use space-themed icons (rockets, satellites, astronauts).
-- Include small images of key spacecraft or missions.
-- Use a dark background with bright colors for contrast, mimicking space and stars.
+- Use a dark background with bright colors for contrast, to suggest space and stars.
 - Choose a futuristic or tech-inspired font for headings and a clear font for details.
 - Create a vertical or horizontal timeline.
-- Use different colors or icons to categorize events (e.g., robotic missions, human spaceflight).
-- Include event dates, mission names, and countries involved.
-- Add brief descriptions of each milestone's significance.
-- Consider including future planned missions at the end of the timeline.
+- Use different colors or icons to group events by type (robotic missions, human spaceflight, etc.).
 
-### Final Review & Improvements
+### Content to Include
 
-- Check for historical accuracy and spelling.
-- Ensure the timeline is easy to follow and visually appealing.
+- Event dates, mission names, and countries or agencies involved.
+- Brief descriptions of each milestone.
+- Future planned missions at the end of the timeline, if you want to extend it.
 
+### Final Review
+
+- Check for historical accuracy and correct spelling.
+- Make sure the timeline is easy to follow from start to finish.

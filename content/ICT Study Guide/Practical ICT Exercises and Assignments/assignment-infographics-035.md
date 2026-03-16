@@ -2,47 +2,43 @@
 title: Assignment - Infographics - 035
 slug: assignment-infographics-035
 weight: 35
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students design a Canva infographic on building inclusive environments for people with disabilities, covering physical access, communication support, and inclusive attitudes.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
 How to create an inclusive environment for people with disabilities.
 
 ## Objective
 
-Create an infographic about creating an inclusive environment for people with disabilities is a wonderful initiative
+Create an infographic about building inclusive environments for people with disabilities.
 
 ## Instructions
 
-- Clearly define the purpose: To educate and raise awareness about the importance of inclusivity for people with disabilities.
-- Identify the target audience: Individuals and organizations interested in fostering inclusivity and accessibility.
-- Specify the desired outcome: To inspire action and encourage the implementation of inclusive practices.
+- State the purpose: to inform and raise awareness about the importance of inclusivity for people with disabilities.
+- Identify the audience: individuals and organizations who want to make their spaces and practices more accessible.
+- Collect information from disability rights organizations, government resources, and academic studies.
+- Learn about the specific barriers people with disabilities face - physical, social, and digital.
 
 ## Background
 
-- Research: Gather information from reputable sources such as disability rights organizations, government resources, and academic studies.
-- Understand the challenges: Learn about the barriers faced by people with disabilities in various environments, including physical, social, and digital.
-- Emphasize the benefits: Highlight the positive impact of inclusivity, such as promoting diversity, enhancing innovation, and fostering a sense of belonging.
+- Note the benefits of inclusivity: it supports a sense of belonging and helps organizations serve everyone they are meant to serve.
 
 ### Key Elements
 
-- Title: Choose a compelling title that conveys the theme, such as "Building Inclusivity: Creating Spaces for All Abilities."
-- Visuals: Use diverse and inclusive imagery that represents people with different types of disabilities and backgrounds.
-- Sections: Organize the infographic into sections addressing different aspects of inclusivity, such as physical accessibility, communication accommodations, and inclusive attitudes.
-- Tips: Provide actionable tips and best practices for creating an inclusive environment, including modifications to physical spaces, communication strategies, and fostering a culture of acceptance.
-- Legal requirements: Include information about relevant laws and regulations, such as the Americans with Disabilities Act (ADA) in the United States or similar legislation in other countries.
-- Resources: Offer links or references to additional resources where readers can learn more about disability rights and inclusivity initiatives.
+- **Title:** A direct title such as "Building Inclusivity: Creating Spaces for All Abilities."
+- **Visuals:** Use diverse imagery showing people with different types of disabilities and backgrounds.
+- **Sections:** Cover different areas of inclusivity - physical access, communication support, and attitudes.
+- **Tips:** Practical steps for making spaces more inclusive, such as ramp access, clear signage, and respectful communication.
+- **Legal requirements:** Note relevant laws such as the Disability Rights Act or local legislation, with brief explanations.
+- **Resources:** Add links or references where readers can learn more.
 
 ## Presentation
 
-- Layout: Design a visually appealing layout with clear sections and a logical flow of information.
-- Font: Use legible fonts in a size that is easy to read, especially for individuals with visual impairments.
-- Color contrast: Ensure sufficient contrast between text and background colors to improve readability for individuals with low vision.
-- Icons: Incorporate symbols or icons to reinforce key concepts and make the infographic more engaging.
-- Language: Use inclusive language and avoid stigmatizing or patronizing terminology when discussing disabilities.
-- Accessibility: Ensure that the infographic itself is accessible by providing alternative text descriptions for images and using accessible design principles.
-
+- Design clear sections with a logical flow.
+- Use fonts that are legible, especially for readers with visual impairments.
+- Make sure text and background colors have sufficient contrast.
+- Use inclusive language throughout - avoid language that stigmatizes or reduces people to their condition.
+- Provide alternative text descriptions for any images if the infographic is shared digitally.

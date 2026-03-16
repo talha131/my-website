@@ -2,70 +2,59 @@
 title: Assignment - Infographics - 050
 slug: assignment-infographics-050
 weight: 50
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students build a Canva timeline infographic tracing Pakistan's political history from 1947 to the present, covering key leaders, constitutional milestones, and periods of democratic and military rule.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
+Political history of Pakistan.
 
-## Objective  
+## Objective
 
-- Provide an **overview of the political history of Pakistan** from its creation in 1947 to the present.  
-- Highlight major **political events, milestones, and changes** in Pakistan's governance.  
-- Help students understand the evolution of the country’s political landscape in a simple and structured way.  
+- Give an overview of Pakistan's political history from its creation in 1947 to the present.
+- Cover major political events, milestones, and changes in governance.
+- Help students understand how Pakistan's political system developed, presented in a simple and structured way.
 
-## Instructions  
+## Instructions
 
-1. Research key areas:  
-   - Pakistan’s independence in 1947 (Key figures: Quaid-e-Azam Muhammad Ali Jinnah).  
-   - Significant political events such as:  
-     - Formation of the Constitution.  
-     - Periods of democracy and martial law.  
-     - Major political leaders and their impacts.  
-   - Recent political developments or ongoing trends.  
-   - Challenges Pakistan faced politically (e.g., instability, partition, wars).  
+1. Research the following areas:
+   - Pakistan's independence in 1947 and the role of Quaid-e-Azam Muhammad Ali Jinnah.
+   - Key political events: the formation of the Constitution, periods of democracy and military rule, and major leaders.
+   - Recent political developments.
+   - Political challenges such as instability, the 1971 partition, and wars.
 
-2. Use credible sources like history books, academic websites, or verified timelines of Pakistan's history. Remember to verify facts!  
+2. Use credible sources: history books, academic websites, or verified timelines. Check your facts carefully.
 
-## Plan Your Infographics  
+## Plan Your Infographic
 
-1. **Structure the Content Chronologically**:  
-   - **Section 1: Formation** (1947-1950s): Partition of India, creation of Pakistan, and early struggles.  
-   - **Section 2: Early Milestones**: Adoption of the first Constitution in 1956 and political changes in leadership.  
-   - **Section 3: Periods of Military Rule & Transition** (e.g., Ayub Khan, Zia-ul-Haq, Musharraf).  
-   - **Section 4: Democratic Movements**: Changing governments, elections, and leaders like Benazir Bhutto, Nawaz Sharif, etc.  
-   - **Section 5: The 21st Century Trends**: Current developments, challenges, and democratic progress.  
+Structure the content chronologically:
 
-2. Include key **dates, names, and short explanations** for each point. Focus on simplicity to engage younger readers.  
+- **Section 1 - Formation (1947-1950s):** Partition of India, creation of Pakistan, and early challenges.
+- **Section 2 - Early Milestones:** The first Constitution in 1956 and early changes in leadership.
+- **Section 3 - Military Rule and Transitions:** Ayub Khan, Zia-ul-Haq, and Musharraf.
+- **Section 4 - Democratic Movements:** Elections, changing governments, and leaders such as Benazir Bhutto and Nawaz Sharif.
+- **Section 5 - 21st Century:** Recent developments and ongoing political shifts.
 
-## Design Your Infographics  
+Include key dates, names, and short explanations for each point. Keep the language simple.
 
-- Use a **timeline layout** to make the infographic visually appealing and easy to follow.  
-- Use green, white, and gold colors (inspired by the **Pakistani flag**).  
-- Add **symbols or icons for major events** such as:  
-  - Partition (map or flag icon).  
-  - Military rules (army symbol or uniform).  
-  - Democratic elections (voting box icon).  
-- Use **images or portraits** of key figures like Muhammad Ali Jinnah, Zulfikar Ali Bhutto, etc.  
-- Ensure text is **brief** and broken into sections using concise headers and bullet points.  
-- **Fonts**: Use legible fonts like Helvetica or Calibri for headings and body text.  
+## Design Your Infographic
 
-## Add Important Details  
+- Use a timeline layout so events flow in order.
+- Use green, white, and gold - colors from the Pakistani flag.
+- Add icons for major events: a map or flag for Partition, a voting box for elections, and an army symbol for military rule.
+- Include images or portraits of key figures such as Muhammad Ali Jinnah and Zulfikar Ali Bhutto.
+- Keep text brief with short headers and bullet points.
+- Use legible fonts such as Helvetica or Calibri.
 
-- Include **important statistics or quotes** (e.g., Jinnah’s famous words on the creation of Pakistan).  
-- If relevant, you could add a small infographic chart showcasing **military vs. democratic rule years**.  
-- Highlight key political achievements or reforms (e.g., women’s representation, economic policies).  
+## Add Important Details
 
-## Call to Action  
+- Include a notable quote, such as one of Jinnah's speeches at the founding of Pakistan.
+- Consider a small chart comparing years of military vs. democratic rule.
 
-- End with a reflective message like:  
-   - “Understanding our past helps build a better future. Pakistan’s history is a great lesson in resilience and perseverance!”  
+## Final Review
 
-## Final Review & Improvements  
-
-- Double-check the **accuracy of dates and events** (history needs to be precise).  
-- Ensure the timeline flows smoothly and logically.  
-- Align all icons, text, and visuals properly for a professional look.  
-
+- Check all dates and names for accuracy.
+- Make sure the timeline flows logically.
+- Confirm that icons, text, and visuals are properly aligned.

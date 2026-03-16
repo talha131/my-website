@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 018
 slug: assignment-infographics-018
 weight: 18
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design an infographic on the benefits of regular exercise using Canva. The infographic covers physical health, mental well-being, and lifestyle benefits, organized into clearly labeled sections with supporting icons and imagery.
 ---
 
 {{< callout type="info" >}}
@@ -14,29 +14,27 @@ The Multifaceted Benefits of Regular Exercise
 
 ## Objective
 
-Craft an engaging infographic that highlights the diverse benefits of regular exercise on physical health, mental well-being, and overall quality of life.
+Create an infographic that covers the diverse benefits of regular exercise on physical health, mental well-being, and overall quality of life.
 
 ## Instructions
 
 ### Background Research
 
 - Investigate the scientific evidence supporting the benefits of regular physical activity. Focus on a variety of exercise types, including cardiovascular, strength training, flexibility, and balance exercises.
-- Explore how different forms of exercise contribute uniquely to health and well-being.
+- Explore how different forms of exercise contribute to health and well-being in different ways.
 
 ### Key Elements to Include
 
 - Physical Health Benefits: Detail how regular exercise improves heart health, muscle strength, flexibility, endurance, and body composition.
-- Mental Health Enhancements: Highlight the impact of exercise on mental health, including reductions in symptoms of anxiety and depression, improved mood, and enhanced cognitive function.
-- Lifestyle and Social Benefits: Showcase the broader lifestyle advantages of regular activity, such as improved sleep, increased energy levels, and the potential for social connections through group fitness activities or sports.
+- Mental Health: Cover the impact of exercise on mental health, including reductions in symptoms of anxiety and depression, improved mood, and better cognitive function.
+- Lifestyle and Social Benefits: Cover the broader lifestyle advantages of regular activity, such as improved sleep, increased energy levels, and opportunities for social connections through group fitness activities or sports.
 
 ### Designing Your Infographics
 
-- Opt for a graphic design tool that is user-friendly and capable of creating vibrant, information-rich visuals.
+- Use [Canva](https://www.canva.com/) to design your infographic. Choose a template that is user-friendly and capable of creating information-rich visuals.
 
-- Incorporate imagery and icons that represent a range of activities (jogging, swimming, yoga, weightlifting). Use a vibrant color palette to convey the energy and positivity associated with regular exercise.
+- Incorporate imagery and icons that represent a range of activities (jogging, swimming, yoga, weightlifting). Use colors that convey energy and positivity.
 
-- Organize the infographic into sections or "benefit blocks" dedicated to physical, mental, and lifestyle advantages.
+- Organize the infographic into sections dedicated to physical, mental, and lifestyle advantages.
 
-- Aim to design the infographic in a manner that motivates and educates. It should speak to a broad audience, from those considering starting an exercise regimen to regular exercisers looking for additional motivation.
-
-
+- Design the infographic to motivate and inform. It should work for a broad audience, from beginners considering starting an exercise routine to regular exercisers looking for extra motivation.

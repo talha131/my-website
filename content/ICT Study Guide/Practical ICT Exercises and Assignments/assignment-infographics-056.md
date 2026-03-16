@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 056
 slug: assignment-infographics-056
 weight: 56
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic summarizing the plot, characters, and themes of "A Bug's Life" (1998), using an ant colony cross-section layout to show Flik's quest to save the colony.
 ---
 
 {{< callout type="info" >}}
@@ -12,40 +12,34 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic that visually represents the plot, important events, and main characters of "A Bug's Life" (1998). This will help you summarize the story and present information in a visually appealing way.
+Create an infographic in Canva that covers the plot, important events, and main characters of "A Bug's Life" (1998).
 
 ## Instructions
 
-### Research the Movie
+Watch "A Bug's Life" (1998) if you haven't seen it recently. Take notes on the main plot points, key events, and important characters.
 
-- Watch "A Bug's Life" (1998) if you haven't seen it recently.
-- Take notes on the main plot points, key events, and important characters.
-
-### Plan Your Infographics
+### Plan Your Infographic
 
 - Outline the main characters: Flik, Princess Atta, the circus bugs, and the grasshoppers.
 - Identify 5-7 major plot points in Flik's quest to save the ant colony.
 - Note key locations like the ant colony and the city (from a bug's perspective).
 
-### Design Your Infographics
+### Design in Canva
 
 - Use insect-themed icons and nature elements.
-- Include images of key characters in their bug forms.
 - Use earthy tones and bright insect-inspired colors.
 - Choose a quirky, nature-inspired font for headings and a clear font for details.
-- Create an ant colony cross-section layout to show different events.
-- Use leaf or branch elements to connect different parts of the story.
+- Create an ant colony cross-section layout to show different events, using leaf or branch elements to connect parts of the story.
 
-### Add Important Details
+### Content to Include
 
-- Include the movie title "A Bug's Life" and release year (1998).
-- Add brief descriptions of main characters and their roles in the colony.
-- Highlight memorable quotes like "Pretend it's a seed, okay?"
-- Include central themes of inventiveness, teamwork, and standing up to bullies.
+- Movie title "A Bug's Life" and release year (1998).
+- Brief descriptions of the main characters and their roles in the colony.
+- A memorable quote such as "Pretend it's a seed, okay?"
+- The central themes of inventiveness, teamwork, and standing up to bullies.
 
-### Final Review & Improvements
+### Final Review
 
 - Check for spelling and grammar mistakes.
-- Ensure all information accurately represents the movie's plot.
-- Make sure the infographic is easy to read and visually appealing.
-
+- Confirm that all information accurately reflects the movie's plot.
+- Make sure the infographic is easy to read.

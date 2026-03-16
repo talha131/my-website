@@ -2,30 +2,28 @@
 title: Assignment - Infographics - 049
 slug: assignment-infographics-049
 weight: 49
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students design a Canva infographic on the importance of brushing teeth, covering the benefits of good oral hygiene and the correct steps for brushing properly.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-Importance of Brushing Your Teeth
+Importance of brushing your teeth.
 
 ## Objective
 
-- Explain why it’s important to brush teeth regularly to maintain oral hygiene and overall health.
+- Explain why brushing teeth regularly matters for oral hygiene and overall health.
 
 ## Instructions
 
-- Cover benefits such as preventing cavities, fresh breath, and gum health.
+- Cover benefits such as preventing cavities, keeping breath fresh, and maintaining gum health.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Section 1: Benefits of Brushing Teeth (add stats and facts).
-- Section 2: Steps to Brush Properly.
+- Section 1: Benefits of brushing teeth - include facts or statistics.
+- Section 2: Steps to brush properly.
 
-### Design Your Infographics
+### Design Your Infographic
 
-- Use visuals like a smiling tooth and a toothbrush to make it child-friendly and clear.
-
+- Use visuals like a smiling tooth and a toothbrush to make the infographic clear and child-friendly.

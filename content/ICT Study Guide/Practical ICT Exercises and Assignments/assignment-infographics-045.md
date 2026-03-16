@@ -2,32 +2,30 @@
 title: Assignment - Infographics - 045
 slug: assignment-infographics-045
 weight: 45
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students create a Canva infographic on why respecting elders matters, with examples of respectful behavior and the benefits of building strong relationships across generations.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-Why Should You Respect Your Elders?
+Why should you respect your elders?
 
 ## Objective
 
-- Explain why respecting elders is important by focusing on values like kindness, tradition, and care for the elderly.
+- Explain why respecting elders matters by focusing on values like kindness, tradition, and care for others.
 
 ## Instructions
 
-- Look for benefits of respecting elders (wisdom, building stronger relationships).
+- Look up the benefits of respecting elders, such as learning from their wisdom and building stronger relationships.
 - Include examples of respectful actions.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Section 1: Importance of Respecting Elders.
-- Section 2: Examples of Respectful Behaviors (e.g., listening patiently, helping them).
+- Section 1: Importance of respecting elders.
+- Section 2: Examples of respectful behaviors (listening patiently, helping with tasks, speaking kindly).
 
-### Design Your Infographics
+### Design Your Infographic
 
-- Use warm and welcoming tones like gold, beige, and brown.
-- Add visuals of elders and young people interacting.
-
+- Use warm, welcoming tones like gold, beige, and brown.
+- Add visuals of elders and younger people interacting.

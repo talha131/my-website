@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 061
 slug: assignment-infographics-061
 weight: 61
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic explaining how solar eclipses form, the three types (total, partial, annular), safe viewing practices, and the path of totality using a step-by-step layout.
 ---
 
 {{< callout type="info" >}}
@@ -12,36 +12,34 @@ These instructions serve as general guidelines. Adapt them as needed to suit the
 
 ## Objective
 
-Create an infographic that explains Solar Eclipses and how they occur, helping viewers understand this rare celestial event.
+Create an infographic in Canva that explains solar eclipses - how they form and what the different types look like.
 
 ## Instructions
 
-- Research the causes and types of solar eclipses (total, partial, annular).
-- Understand the alignment of the Sun, Moon, and Earth during an eclipse.
+Research the causes and types of solar eclipses: total, partial, and annular. Make sure you understand how the Sun, Moon, and Earth must align for an eclipse to occur.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Outline the different types of solar eclipses.
-- Plan sections for explaining the eclipse path and frequency.
+- Outline the three types of solar eclipses.
+- Plan sections for the eclipse path and how often they occur.
 
-### Design Your Infographics
+### Design in Canva
 
 - Create diagrams showing the alignment of the Sun, Moon, and Earth.
-- Include images of what different eclipse types look like from Earth.
+- Include images showing what each eclipse type looks like from Earth.
 - Use a bright color scheme with sun-inspired yellows and oranges.
 - Choose a clear, bold font for headings and a readable font for explanations.
-- Use a step-by-step layout to explain how an eclipse occurs.
+- Use a step-by-step layout to explain how an eclipse forms.
 - Include a map showing a recent or upcoming eclipse path.
 
-### Add Important Details
+### Content to Include
 
-- Explain the difference between solar and lunar eclipses.
-- Include safety information for viewing solar eclipses.
-- Add interesting facts about solar eclipses (e.g., frequency, duration).
-- Mention famous historical solar eclipses.
+- The difference between solar and lunar eclipses.
+- Safety instructions for viewing a solar eclipse.
+- Interesting facts: how often they occur, how long they last.
+- Examples of well-known historical solar eclipses.
 
-### Final Review & Improvements
+### Final Review
 
 - Verify all scientific information for accuracy.
-- Ensure the infographic is both informative and visually engaging.
-
+- Make sure the infographic is both informative and easy to follow.

@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 011
 slug: assignment-infographics-011
 weight: 11
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Design a Markov Process infographic on reading development pathways using Canva. The diagram maps 5 stages - letter recognition, word formation, simple sentences, paragraph reading, and story comprehension - with weighted transition probabilities between each stage.
 ---
 
 {{< callout type="info" >}}
@@ -14,12 +14,12 @@ Reading Pathways
 
 ## Objective
 
-Transform the provided data into a visually engaging and informative infographic.
+Transform the provided data into a clear and informative infographic.
 
 ## Instructions
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
-2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
+2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
 3. **Design Your Infographics:** Based on the data, your infographic should take the form of a [**Markov Process**](https://en.wikipedia.org/wiki/Markov_chain#/media/File:Markovkate_01.svg).
 
 ### Nodes (States)
@@ -36,4 +36,3 @@ Transform the provided data into a visually engaging and informative infographic
 - Word Formation to Simple Sentences: 0.7 (After forming words, students are likely to construct simple sentences.)
 - Simple Sentences to Paragraph Reading: 0.6 (With the ability to create sentences, reading paragraphs is the next step.)
 - Paragraph Reading to Story Comprehension: 0.7 (Understanding paragraphs leads to comprehending and enjoying entire stories.)
-

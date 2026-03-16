@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 071
 slug: assignment-infographics-071
 weight: 71
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about balanced nutrition for young females, covering key food groups, nutrients specific to this age group (iron, calcium, vitamin D), and practical healthy eating tips.
 ---
 
 {{< callout type="info" >}}
@@ -14,45 +14,37 @@ A Balanced Diet for Young Females
 
 ## Objective
 
-Create an infographic that educates young females on the importance of a balanced diet and suggests key food groups they should include for health and well-being.
+Create an infographic in Canva that explains what a balanced diet looks like for young females and why it matters for health.
 
 ## Instructions
 
-Find credible information about,
+Find credible information about:
 
 - The role of a balanced diet in supporting health for females.
-- Key food groups (carbs, proteins, healthy fats, vitamins, and minerals).
-- Importance of nutrients specific to young females (e.g., iron, calcium, vitamin D).
+- Key food groups: carbohydrates, proteins, healthy fats, vitamins, and minerals.
+- Nutrients that are especially important for young females: iron, calcium, and vitamin D.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-Organize sections such as,
+Organize sections such as:
 
-- "What is a Balanced Diet?" (define it with simple terms).
-- "Key Nutrients for Girls" (list foods and their benefits).
-- "Tips for Healthy Eating" (practical advice for maintaining nutrition).
+- What is a Balanced Diet? (define it in simple terms)
+- Key Nutrients for Young Females (list foods and their benefits)
+- Tips for Healthy Eating (practical advice)
 
-### Design Your Infographics
+### Design in Canva
 
-Use health-related icons such as,
+- Use health-related icons: plates, fruits, vegetables, water bottles, and nutrient charts.
+- Include pyramids or pie charts showing portions of the food groups.
+- Use natural colors like green, orange, and blue.
+- Choose a clean, easy-to-read font.
+- Arrange sections so the infographic flows from introduction to practical tips.
 
-- Plates, fruits, vegetables, water bottles, and nutrient charts.
-- Pyramids or pie charts showing portions of food groups.
-- Add pictures of healthy meals to inspire the audience.
-- Use natural and fresh colors like green, orange, and blue.
-- Pick clean, easy-to-read fonts for clear communication.
-- Arrange sections visually (e.g., start with an intro and use graphs or charts for food groups).
-- Make it visually balanced with illustrations and space between sections.
+### Content to Include
 
-### Add Important Details
+- Practical tips such as "Drink plenty of water daily" and "Focus on whole grains and avoid processed foods."
+- The importance of regular meals and snacks for energy throughout the day.
 
-Include actionable tips such as,
+### Final Review
 
-- "Drink plenty of water daily."
-- "Focus on whole grains and avoid processed foods."
-- Highlight the importance of regular meals and snacks for energy.
-
-### Final Review & Improvements
-
-- Double-check for visual clarity and content accuracy.
-
+- Double-check for visual clarity and accurate information.

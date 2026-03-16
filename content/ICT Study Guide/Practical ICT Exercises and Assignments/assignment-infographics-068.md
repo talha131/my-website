@@ -2,7 +2,7 @@
 title: Assignment - Infographics - 068
 slug: assignment-infographics-068
 weight: 68
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Create a Canva infographic about Jupiter covering the Great Red Spot, its largest moons (Ganymede, Europa), key size and position data, and notable facts about this gas giant.
 ---
 
 {{< callout type="info" >}}
@@ -14,42 +14,37 @@ Discovering Jupiter
 
 ## Objective
 
-Design an infographic to highlight Jupiter, the largest planet in our solar system, and its unique properties like the Great Red Spot and numerous moons.
+Create an infographic in Canva about Jupiter, the largest planet in our solar system, focusing on its Great Red Spot and major moons.
 
 ## Instructions
 
-Find information about,
+Find information about:
 
 - Jupiter's size and position in the solar system.
-- The Great Red Spot (a massive storm) and its features.
-- Fun facts about its moons, such as Ganymede and Europa.
+- The Great Red Spot - what it is and why it stands out.
+- Key facts about its moons, such as Ganymede and Europa.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-Organize these sections in your content
+Organize these sections:
 
-- "Jupiter at a Glance" (dimensions, position, facts).
-- "The Great Red Spot" (why it’s famous and important).
-- "Interesting Moons of Jupiter" (key facts about some moons).
+- Jupiter at a Glance: dimensions, position, and key facts.
+- The Great Red Spot: why it is well-known and what makes it unusual.
+- Interesting Moons of Jupiter: key facts about selected moons.
 
-### Design Your Infographics
+### Design in Canva
 
-- Use symbols like
-    - A large planet icon for Jupiter.
-    - Small illustrations for its moons.
+- Use a large planet icon for Jupiter and small illustrations for its moons.
 - Show the Great Red Spot with bold, swirling designs.
-- Jupiter’s theme could use orange, white, and red to depict its gas surface and storms.
+- Use orange, white, and red to reflect Jupiter's gas surface and storms.
 - Use bold, easy-to-read fonts.
-- Create sections or panels (e.g., "Fast Facts," "The Stormy Planet").
+- Divide the content into clear panels.
 
-### Add Important Details
+### Content to Include
 
-Add data like,
+- Data points such as "Jupiter has 95 moons" and "The Great Red Spot has lasted over 300 years."
+- References from your research.
 
-- "Jupiter has 95 moons!" or "The Great Red Spot has lasted over 300+ years."
-- Include references from your research.
+### Final Review
 
-### Final Review & Improvements
-
-- Ensure proper alignment and balance in your design.
-
+- Check alignment and balance in your design before submitting.

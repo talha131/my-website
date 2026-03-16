@@ -2,31 +2,29 @@
 title: Assignment - Infographics - 047
 slug: assignment-infographics-047
 weight: 47
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students design a Canva infographic on the harmful effects of excessive mobile phone use, covering physical, emotional, and social harm, and tips for healthier habits.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-How Using Mobile Excessively is Harmful for You
+How using a mobile phone excessively is harmful.
 
 ## Objective
 
-- Educate about health issues related to excessive mobile use (e.g., eye strain, posture problems).
+- Show the health problems linked to excessive mobile phone use, such as eye strain and poor posture.
 
 ## Instructions
 
-- Include effects like reduced productivity and mental health impacts.
+- Include effects on productivity and mental health as well as physical health.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Section 1: Why People Use Mobiles Excessively (e.g., entertainment, communication).
-- Section 2: Harmful Effects (e.g., physical, emotional, social harm).
-- Section 3: Tips for Healthy Mobile Use.
+- Section 1: Why people use mobiles excessively (entertainment, communication, habit).
+- Section 2: Harmful effects - physical, emotional, and social.
+- Section 3: Tips for healthier mobile use.
 
-### Design Your Infographics
+### Design Your Infographic
 
-- Use a "problem and solution" layout design featuring mobile phones.
-
+- Use a "problem and solution" layout with mobile phone visuals as the central image.

@@ -2,35 +2,33 @@
 title: Assignment - Infographics - 042
 slug: assignment-infographics-042
 weight: 42
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students create a Canva infographic explaining the five daily prayers in Islam, covering the name and timing of each prayer and the key steps for performing salah.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-How to Offer Prayers 5 Times a Day in Islam
+How to offer prayers five times a day in Islam.
 
 ## Objective
 
-- Help individuals understand the significance and method of offering prayers as practiced in Islam.
-- Outline the steps and timings of each of the 5 daily prayers.
+- Help individuals understand the significance and method of the five daily prayers in Islam.
+- Show the steps and timings for each prayer.
 
 ## Instructions
 
-- Research the names and approximate timings (Fajr, Dhuhr, Asr, Maghrib, Isha).
-- Identify the key steps for performing prayer: wudu (ablution), facing the Qibla, and the formal steps of salah.
+- Research the names and approximate timings: Fajr, Dhuhr, Asr, Maghrib, and Isha.
+- Identify the key steps for performing prayer: wudu (ablution), facing the Qibla, and the actions of salah.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Section 1: Importance of the 5 Daily Prayers
-- Section 2: Timings of Each Prayer (use clear clocks or symbols for morning, afternoon, etc.)
-- Section 3: Steps to Perform Prayer (wudu, intention, actions during salah).
+- Section 1: Importance of the five daily prayers.
+- Section 2: Timings of each prayer (use clocks or time-of-day symbols for morning, afternoon, etc.).
+- Section 3: Steps to perform prayer (wudu, intention, and the actions of salah).
 
-### Design Your Infographics
+### Design Your Infographic
 
 - Use calming colors like white, green, or light blue.
-- Include visuals, such as people praying, a clock for timings, and the Kaaba (for facing direction).
-- Use Arabic and English terms (e.g., Fajr – Morning Prayer).
-
+- Include visuals such as people praying, a clock for timings, and the Kaaba for direction.
+- Use both Arabic and English terms, for example: Fajr - Morning Prayer.

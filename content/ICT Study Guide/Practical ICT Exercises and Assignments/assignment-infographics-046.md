@@ -2,31 +2,28 @@
 title: Assignment - Infographics - 046
 slug: assignment-infographics-046
 weight: 46
-description: Learn to create visually engaging infographics with these practical ICT assignments designed to enhance creativity, critical thinking, and digital communication skills. Perfect for mastering infographic tools and presenting complex ideas effectively.
+description: Students produce a Canva infographic on the benefits of reading books, covering mental, creative, and vocabulary gains, along with fun facts about books.
 ---
 
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
-Why Should You Read Books?
+Why should you read books?
 
 ## Objective
 
-- Highlight the importance of reading and how it benefits mental growth, knowledge, and creativity.
+- Show the importance of reading and how it benefits the mind, knowledge, and creativity.
 
 ## Instructions
 
-- Research benefits like improved creativity, better vocabulary, and reduced stress.
+- Research benefits such as improved vocabulary, sharper thinking, and reduced stress.
 
-### Plan Your Infographics
+### Plan Your Infographic
 
-- Section 1: Benefits of Reading (e.g., sharpens mind, entertains, inspires).
-- Section 2: Fun Facts About Books (e.g., historical book trivia).
+- Section 1: Benefits of reading (sharpens the mind, entertains, inspires).
+- Section 2: Fun facts about books (historical trivia, interesting statistics).
 
-### Design Your Infographics
+### Design Your Infographic
 
-- Use book-related icons, open books, libraries, or brain imagery.
-
-
+- Use book-related icons: open books, libraries, or brain imagery.
