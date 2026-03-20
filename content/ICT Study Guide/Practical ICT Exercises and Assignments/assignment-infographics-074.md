@@ -1,6 +1,6 @@
 ---
-title: Assignment Infographics 074
-linktitle: Infographics Assignment 074
+title: Assignment Infographics - 074
+linktitle: Infographics Assignment - 074
 slug: assignment-infographics-074
 description: Create a Canva infographic comparing solar and lunar eclipses side by side, using alignment diagrams showing umbra and penumbra, and a comparison table of key differences.
 weight: 74
@@ -9,7 +9,6 @@ weight: 74
 {{< callout type="info" >}}
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
-
 
 This assignment asks you to design an infographic in Canva that explains solar and lunar eclipses, how each one forms, and how they differ from each other.
 
