@@ -17,18 +17,18 @@ Create a concept map in Canva that explains Allama Iqbal's philosophy of Khudi -
 
 ### Central Concept
 
-Place **"Khudi (The Self)"** at the center.
+Place **"خودی Khudi (The Self)"** at the center.
 
 ### Main Branches
 
 Connect the following ideas to the center:
 
 - **Meaning of Khudi:** Individual identity, inner strength, self-awareness
-- **Stages of Khudi:** Ita'at (obedience), Zabt-e-Nafs (self-discipline), Niyabat-e-Ilahi (vicegerency of God)
+- **Stages of Khudi:** اطاعت Ita'at (obedience), ضبطﹺ نفس Zabt-e-Nafs (self-discipline), نیابتﹺ الٰہی Niyabat-e-Ilahi (vicegerency of God)
 - **Khudi and Faith:** Submission to God as the path to strengthening - not weakening - the self
 - **Khudi and Action:** Hard work, courage, refusing to accept helplessness or passivity
 - **Khudi and the Community:** Individual strength as the basis of a strong Muslim Ummah
-- **Relevant Poetry:** A line or two from Asrar-e-Khudi or Bang-e-Dra that expresses this idea
+- **Relevant Poetry:** A line or two from اسرارﹺ خودی Asrar-e-Khudi or Bang-e-Dra that expresses this idea
 
 ### Design in Canva
 

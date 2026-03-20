@@ -9,7 +9,6 @@ description: Design a tree diagram infographic on classroom management strategie
 These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
 {{< /callout >}}
 
-
 Classroom Management Strategies
 
 ## Objective
@@ -20,7 +19,7 @@ Transform the provided data into a clear and informative infographic.
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
 2. **Select a Tool:** Use [Canva](https://www.canva.com/) to design your infographic.
-3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)](https://miro.com/diagramming/what-is-a-tree-diagram/)**. Organize the information in a hierarchical structure, with branches representing different categories or levels of information.
+3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. Organize the information in a hierarchical structure, with branches representing different categories or levels of information.
 
 ### Root Node
 
